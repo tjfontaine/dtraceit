@@ -1,0 +1,14 @@
+{
+  "name": "dtraceit",
+  "version": "0.0.1",
+  "main": "dtraceit",
+  "description": "Quickly dtrace a nodejs child process",
+  "keywords": ["dtrace","profile","stackvis"],
+  "author": "Timothy J Fontaine <tjfontaine@gmail.com>",
+  "bin": {
+    "dtraceit": "dtraceit.js"
+  },
+  "dependencies": {
+    "optimist": ""
+  }
+}
